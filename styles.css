@@ -1,0 +1,30 @@
+/* WE NEED SOME STYLES */
+.containter{
+    width: auto, max-content 800px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
+.light{
+
+}
+
+.on{
+
+}
+
+.off{
+
+}
+
+.img{
+
+}
+
+.img.containter{
+    width: auto, max-content 300px;
+    position: relative;
+    min-height: 100vh;
+}
